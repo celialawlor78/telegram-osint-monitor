@@ -11,7 +11,7 @@ API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 SESSION_NAME = "osint_scraper_session"
 
-CHANNELS = ["@rybar", "@baza"]
+CHANNELS = ["@rybar", "@bazabazon"]
 KEYWORDS = ["санкции", "граница", "бпла", "кибератака", "казахстан"]
 
 
