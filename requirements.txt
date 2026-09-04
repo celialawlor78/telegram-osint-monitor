@@ -1,0 +1,4 @@
+telethon
+pandas
+requests
+python-dotenv
